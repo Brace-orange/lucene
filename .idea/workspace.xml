@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e1a65d1-a2ab-481a-bc31-cabcc68366ce" name="Default Changelist" comment="" />
+    <list default="true" id="1e1a65d1-a2ab-481a-bc31-cabcc68366ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lucene-sources/lib/IK-Analyzer-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lucene-sources/src/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lucene-sources/src/hotword.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/IndexManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/SearchIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lucene-sources/src/stopword.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene-sources/lucene-sources.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lucene-sources/lucene-sources.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/LucenenPra.java" beforeDir="false" afterPath="$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/LucenenPra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lucene-sources/one/two/lucenen/LucenenPra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lucene-sources/one/two/lucenen/LucenenPra.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +41,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/LucenenPra.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+            <state relative-caret-position="-1439">
+              <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/SearchIndex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/IndexManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="20" selection-start-line="20" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lucene-sources/src/hotword.dic">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="114" column="2" selection-start-line="114" selection-start-column="2" selection-end-line="114" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -50,10 +95,21 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>indexwrite</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/lucene-sources/src/hotword.dic" />
         <option value="$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/LucenenPra.java" />
+        <option value="$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/IndexManager.java" />
+        <option value="$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/SearchIndex.java" />
       </list>
     </option>
   </component>
@@ -63,12 +119,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1400" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="828" />
+    <option name="y" value="84" />
+    <option name="width" value="1096" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -85,7 +142,13 @@
             <path>
               <item name="lucenepra" type="b2602c69:ProjectViewProjectNode" />
               <item name="lucene-sources" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lucenepra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lucene-sources" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lucenen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -99,10 +162,11 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lucene-sources/lib/lucene-core-7.4.0.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lucene-sources/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -112,6 +176,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaData\lucenepra\lucene-sources\src" />
       <recent name="D:\javaData\lucenepra\lucene-sources\lib" />
     </key>
   </component>
@@ -127,7 +192,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LucenenPra.searchIndex">
+  <component name="RunManager" selected="JUnit.LucenenPra.createIndex">
+    <configuration name="IndexManager.addDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucene-sources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.two.lucenen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="one.two.lucenen" />
+      <option name="MAIN_CLASS_NAME" value="one.two.lucenen.IndexManager" />
+      <option name="METHOD_NAME" value="addDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexManager.deleteAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucene-sources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.two.lucenen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="one.two.lucenen" />
+      <option name="MAIN_CLASS_NAME" value="one.two.lucenen.IndexManager" />
+      <option name="METHOD_NAME" value="deleteAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexManager.deleteDocumentByQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucene-sources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.two.lucenen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="one.two.lucenen" />
+      <option name="MAIN_CLASS_NAME" value="one.two.lucenen.IndexManager" />
+      <option name="METHOD_NAME" value="deleteDocumentByQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexManager.updateDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucene-sources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.two.lucenen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="one.two.lucenen" />
+      <option name="MAIN_CLASS_NAME" value="one.two.lucenen.IndexManager" />
+      <option name="METHOD_NAME" value="updateDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LucenenPra.createIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lucene-sources" />
       <extension name="coverage">
@@ -144,26 +273,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LucenenPra.searchIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lucene-sources" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="one.two.lucenen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="one.two.lucenen" />
-      <option name="MAIN_CLASS_NAME" value="one.two.lucenen.LucenenPra" />
-      <option name="METHOD_NAME" value="searchIndex" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LucenenPra.searchIndex" />
         <item itemvalue="JUnit.LucenenPra.createIndex" />
+        <item itemvalue="JUnit.IndexManager.deleteAll" />
+        <item itemvalue="JUnit.IndexManager.updateDocument" />
+        <item itemvalue="JUnit.IndexManager.deleteDocumentByQuery" />
+        <item itemvalue="JUnit.IndexManager.addDocument" />
       </list>
     </recent_temporary>
   </component>
@@ -177,62 +293,113 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566025229006</updated>
-      <workItem from="1566025231977" duration="5585000" />
+      <workItem from="1566025231977" duration="11804000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LucenenPra_createIndex - 2019.08.17 at 15h 50m 24s.xml">
+    <history-entry file="IndexManager_addDocument - 2019.08.17 at 18h 34m 30s.xml">
+      <configuration name="IndexManager.addDocument" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IndexManager_deleteDocumentByQuery - 2019.08.17 at 18h 34m 41s.xml">
+      <configuration name="IndexManager.deleteDocumentByQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IndexManager_deleteDocumentByQuery - 2019.08.17 at 18h 35m 55s.xml">
+      <configuration name="IndexManager.deleteDocumentByQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IndexManager_deleteDocumentByQuery - 2019.08.17 at 18h 36m 13s.xml">
+      <configuration name="IndexManager.deleteDocumentByQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IndexManager_deleteDocumentByQuery - 2019.08.17 at 18h 36m 21s.xml">
+      <configuration name="IndexManager.deleteDocumentByQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IndexManager_deleteDocumentByQuery - 2019.08.17 at 18h 36m 43s.xml">
+      <configuration name="IndexManager.deleteDocumentByQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IndexManager_updateDocument - 2019.08.17 at 18h 41m 04s.xml">
+      <configuration name="IndexManager.updateDocument" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IndexManager_deleteAll - 2019.08.17 at 18h 44m 17s.xml">
+      <configuration name="IndexManager.deleteAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LucenenPra_createIndex - 2019.08.17 at 18h 45m 15s.xml">
       <configuration name="LucenenPra.createIndex" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LucenenPra_searchIndex - 2019.08.17 at 16h 57m 11s.xml">
-      <configuration name="LucenenPra.searchIndex" configurationId="JUnit" />
+    <history-entry file="LucenenPra_createIndex - 2019.08.17 at 18h 45m 21s.xml">
+      <configuration name="LucenenPra.createIndex" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5585000" />
+    <option name="totallyTimeSpent" value="11804000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35394457" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2468017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900432" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.048754063" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="right" id="Maven" weight="0.32995737" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.048754063" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.5045558" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="0" sideWeight="0.49544418" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Ant Build" order="8" sideWeight="0.49886104" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/LucenenPra.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lucenepra$IndexManager_addDocument.ic" NAME="IndexManager.addDocument Coverage Results" MODIFIED="1566037376185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>one.two.lucenen.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lucene-sources/src/one/two/lucene.java">
@@ -242,10 +409,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lucene-sources/src/IKAnalyzer.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lucene-sources/src/stopword.dic">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lucene-sources/src/hotword.dic">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="114" column="2" selection-start-line="114" selection-start-column="2" selection-end-line="114" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/LucenenPra.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="-1439">
+          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/IndexManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" selection-start-line="20" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lucene-sources/src/one/two/lucenen/SearchIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
